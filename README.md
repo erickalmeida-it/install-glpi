@@ -2,6 +2,8 @@ INSTRUÇÕES DE USO
 
 Baixando,descompactando o script e entrando no diretório:
 
+* sudo apt install zip -y
+
 * wget https://github.com/erickalmeida-it/install-glpi/archive/master.zip
 
 * unzip master.zip
